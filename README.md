@@ -1,6 +1,6 @@
 # Sebastián Hernández
 
-Desarrollador Full-Stack con foco en backend.  
+Desarrollador Full-Stack.  
 Me interesa crear herramientas simples, útiles y bien construidas.
 
 [shernandez.dev](https://www.shernandez.dev) · [LinkedIn](https://www.linkedin.com/in/shdez-dev/) · [Email](mailto:sebastian@shernandez.dev)
