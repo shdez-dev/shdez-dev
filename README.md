@@ -1,31 +1,31 @@
 # Sebastián Hernández
 
-Full-Stack Developer con foco en backend y sistemas distribuidos.
-Construyo sistemas que van a producción — dominio, datos, estado, fallos.
+Desarrollador Full-Stack con foco en backend.  
+Me interesa crear herramientas simples, útiles y bien construidas.
 
-[shernandez.dev](https://www.shernandez.dev) · [LinkedIn](https://www.linkedin.com/in/shdez-dev/)
+[shernandez.dev](https://www.shernandez.dev) · [LinkedIn](https://www.linkedin.com/in/shdez-dev/) · [Email](mailto:sebastian@shernandez.dev)
+
+## Proyectos
+
+### [Aether](https://github.com/shdez-dev/aether-collaboration-platform)
+
+Plataforma colaborativa con tableros, documentos y actividad en tiempo real.  
+`TypeScript` · `Node.js` · `PostgreSQL` · `Redis`
+
+### [tasks-cli](https://github.com/shdez-dev/tasks-cli)
+
+Gestor de tareas para terminal con almacenamiento local y sincronización opcional.  
+`TypeScript` · `SQLite` · `PostgreSQL`
+
+### [krate-api](https://github.com/shdez-dev/krate-api)
+
+API REST para e-commerce construida como práctica de arquitectura backend.  
+`NestJS` · `TypeScript` · `PostgreSQL`
+
+## Tecnologías
+
+`TypeScript` · `Python` · `Node.js` · `FastAPI` · `PostgreSQL` · `Docker`
 
 ---
 
-### Stack
-
-`TypeScript` `Python` `JavaScript`
-`NestJS` `Node.js` `Django` `FastAPI` `Next.js`
-`PostgreSQL` `Redis` `MySQL` `MongoDB`
-`Docker` `GitHub Actions` `Jest` `Playwright`
-
----
-
-### Proyectos
-
-| | Proyecto | Descripción | Estado |
-|---|---|---|---|
-| 01 | [aether-collaboration-platform](https://github.com/shdez-dev/aether-collaboration-platform) | Plataforma colaborativa en tiempo real. Event Sourcing + CRDT (Yjs), tableros Kanban, edición concurrente de documentos. | `live` |
-| 02 | [tasks-cli](https://github.com/shdez-dev/tasks-cli) | Gestor de tareas offline-first para la terminal. SQLite local, sync opcional vía PostgreSQL, sin cuenta. | `live` |
-| 03 | [krate-api](https://github.com/shdez-dev/krate-api) | API REST e-commerce con arquitectura hexagonal sobre NestJS. JWT, transacciones atómicas, 63 unit tests. | `wip` |
-
----
-
-### Contacto
-
-`sebastian@shernandez.dev`
+[sebastian@shernandez.dev](mailto:sebastian@shernandez.dev)
