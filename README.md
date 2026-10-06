@@ -80,7 +80,7 @@ Soy ingeniero en Informática y he trabajado en aplicaciones web, herramientas i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shdez-dev&theme=tokyo-night&hide_border=true" alt="Actividad reciente en GitHub" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shdez-dev&theme=tokyonight" alt="Actividad y contribuciones en GitHub" width="100%" />
 </p>
 
 ## En qué me gusta enfocarme
@@ -94,4 +94,5 @@ Me interesa crear herramientas que resuelvan necesidades concretas, simplificar 
   <a href="mailto:sebastian@shernandez.dev"><img src="https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
   <a href="https://www.shernandez.dev"><img src="https://img.shields.io/badge/Sitio%20web-Visitar-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
 </p>
+
 
