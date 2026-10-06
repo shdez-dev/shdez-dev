@@ -25,27 +25,23 @@ Soy ingeniero en Informática y he trabajado en aplicaciones web, herramientas i
 
 ## Proyectos destacados
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Aether</h3>
-      <p>Una plataforma colaborativa para trabajar con documentos y tableros en tiempo real. La desarrollé de principio a fin y llegó a más de 50 personas usuarias.</p>
-      <p><strong>Herramientas</strong><br />React, TypeScript, Node.js y PostgreSQL</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Registro de cosecha</h3>
-      <p>Una aplicación para registrar información en terreno, incluso sin conexión. La usaron 12 personas y ayudó a centralizar más de un millón de registros.</p>
-      <p><strong>Herramientas</strong><br />Android, Python y Django</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Gestión de inventario</h3>
-      <p>Una herramienta para organizar productos, compras y bodegas, y automatizar tareas diarias. El sistema contempló más de 400 productos y 20 reglas de negocio.</p>
-      <p><strong>Herramientas</strong><br />Google Apps Script, AppSheet y n8n</p>
-    </td>
-  </tr>
-</table>
+### Aether
+
+Una plataforma colaborativa para trabajar con documentos y tableros en tiempo real. La desarrollé de principio a fin y llegó a más de 50 personas usuarias.
+
+**Herramientas:** `React`, `TypeScript`, `Node.js`, `PostgreSQL`
+
+### Registro de cosecha
+
+Una aplicación para registrar información en terreno, incluso sin conexión. La usaron 12 personas y ayudó a centralizar más de un millón de registros.
+
+**Herramientas:** `Android`, `Python`, `Django`
+
+### Gestión de inventario
+
+Una herramienta para organizar productos, compras y bodegas, y automatizar tareas diarias. El sistema contempló más de 400 productos y 20 reglas de negocio.
+
+**Herramientas:** `Google Apps Script`, `AppSheet`, `n8n`
 
 ## Tecnologías
 
@@ -94,5 +90,3 @@ Me interesa crear herramientas que resuelvan necesidades concretas, simplificar 
   <a href="mailto:sebastian@shernandez.dev"><img src="https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
   <a href="https://www.shernandez.dev"><img src="https://img.shields.io/badge/Sitio%20web-Visitar-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
 </p>
-
-
