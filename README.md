@@ -4,7 +4,7 @@
 
 **Ingeniero en Informática · Backend & Full-Stack Developer**
 
-Construyo productos web, APIs y sistemas orientados a problemas reales.
+Construyo aplicaciones, APIs y sistemas enfocados en resolver problemas reales.
 
 [Portafolio](https://www.shernandez.dev) · [GitHub](https://github.com/Loksz)
 
@@ -14,34 +14,45 @@ Construyo productos web, APIs y sistemas orientados a problemas reales.
 
 ### Sobre mí
 
-Principalmente enfocado en **backend**, arquitectura y desarrollo full-stack.  
-Me interesa construir software mantenible, experimentar con nuevas tecnologías y entender cómo funcionan los sistemas más allá del código.
+Desarrollador enfocado principalmente en **backend**, arquitectura y desarrollo full-stack.  
+Me interesa construir software mantenible, entender cómo funcionan los sistemas y seguir explorando nuevas tecnologías.
 
-### Stack
+### Tecnologías
 
-**Backend**  
-`TypeScript` · `Node.js` · `NestJS` · `Express` · `Python`
+`TypeScript` · `JavaScript` · `Node.js` · `NestJS` · `Express` · `Python`
 
-**Frontend**  
 `React` · `Next.js` · `Tailwind CSS`
 
-**Datos**  
 `PostgreSQL` · `Redis` · `MongoDB` · `MySQL`
 
-**Cloud & Tools**  
 `AWS` · `Docker` · `GitHub Actions` · `Linux`
 
-### Proyectos
+### Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **AETHER** | Plataforma de colaboración en tiempo real | Next.js · Node.js · PostgreSQL · Redis · Socket.IO |
-| **E-Planet** | Plataforma para análisis y financiamiento solar | Next.js · NestJS · PostgreSQL · Docker |
-| **Krate API** | Backend para e-commerce | Node.js · TypeScript · REST API |
+**AETHER**  
+Plataforma de colaboración en tiempo real con espacios de trabajo, documentos colaborativos, tableros, presencia y notificaciones.
 
-### Explorando
+`Next.js` · `Node.js` · `PostgreSQL` · `Redis` · `Socket.IO`
 
-`Terraform` · `GraphQL` · `Cloud Architecture`
+[Repositorio](https://github.com/Loksz/aether-collaboration-platform)
+
+---
+
+**E-Planet**  
+Plataforma orientada al análisis y financiamiento de energía solar residencial.
+
+`Next.js` · `NestJS` · `PostgreSQL` · `Redis` · `Docker`
+
+---
+
+**Krate API**  
+Backend para una plataforma de comercio electrónico, enfocado en APIs, autenticación y persistencia.
+
+`Node.js` · `TypeScript` · `REST API`
+
+### Actualmente explorando
+
+`Terraform` · `GraphQL` · `AWS` · `Cloud Architecture`
 
 ---
 
