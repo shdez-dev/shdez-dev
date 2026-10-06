@@ -27,21 +27,16 @@ Soy ingeniero en Informática y he trabajado en aplicaciones web, herramientas i
 
 ### Aether
 
-Una plataforma colaborativa para trabajar con documentos y tableros en tiempo real. La desarrollé de principio a fin y llegó a más de 50 personas usuarias.
+Una plataforma colaborativa con documentos, tableros Kanban y sincronización en tiempo real. La desarrollé de principio a fin y está en producción con más de 50 usuarios activos.
 
-**Herramientas:** `React`, `TypeScript`, `Node.js`, `PostgreSQL`
+**Tecnologías aplicadas**
 
-### Registro de cosecha
+- **Interfaz:** React, Next.js, TypeScript
+- **Servidor y tiempo real:** Node.js, APIs REST, Socket.IO
+- **Datos:** PostgreSQL, Redis, Prisma
+- **Pruebas y despliegue:** Jest, Supertest, Playwright, Docker, GitHub Actions para integración y despliegue continuo
 
-Una aplicación para registrar información en terreno, incluso sin conexión. La usaron 12 personas y ayudó a centralizar más de un millón de registros.
-
-**Herramientas:** `Android`, `Python`, `Django`
-
-### Gestión de inventario
-
-Una herramienta para organizar productos, compras y bodegas, y automatizar tareas diarias. El sistema contempló más de 400 productos y 20 reglas de negocio.
-
-**Herramientas:** `Google Apps Script`, `AppSheet`, `n8n`
+También incluye autenticación con JWT, permisos por rol, limitación de solicitudes, registro de actividad y manejo centralizado de errores.
 
 ## Tecnologías
 
@@ -56,6 +51,7 @@ Una herramienta para organizar productos, compras y bodegas, y automatizar tarea
   <p><strong>Desarrollo web</strong></p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 </div>
@@ -63,9 +59,19 @@ Una herramienta para organizar productos, compras y bodegas, y automatizar tarea
 <div align="center">
   <p><strong>Datos y herramientas</strong></p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+<div align="center">
+  <p><strong>Tiempo real y pruebas</strong></p>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Supertest-555555?style=for-the-badge" alt="Supertest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </div>
 
 ## Actividad en GitHub
